@@ -19,7 +19,7 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    BotName: 'YEONGSIL BOT',
+    BotName: 'WIKI BOT',
     instagram: 'https://instagram.com/adam_oey107',
     whatsapp: 'wa.me/6283153843600',
     kapanbotaktif: '24 JAM',
